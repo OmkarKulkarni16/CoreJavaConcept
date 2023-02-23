@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankApp/BankApp.iml" filepath="$PROJECT_DIR$/BankApp/BankApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" filepath="$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreJavaTraning.iml" filepath="$PROJECT_DIR$/CoreJavaTraning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataType/DataType.iml" filepath="$PROJECT_DIR$/DataType/DataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForDemo/ForDemo.iml" filepath="$PROJECT_DIR$/ForDemo/ForDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLibrary/JavaLibrary.iml" filepath="$PROJECT_DIR$/JavaLibrary/JavaLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/Library.iml" filepath="$PROJECT_DIR$/Library/Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloadingChallenge/MethodOverloadingChallenge.iml" filepath="$PROJECT_DIR$/MethodOverloadingChallenge/MethodOverloadingChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInputChallenge/ReadingUserInputChallenge.iml" filepath="$PROJECT_DIR$/ReadingUserInputChallenge/ReadingUserInputChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/Scanner/Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariableType/VariableType.iml" filepath="$PROJECT_DIR$/VariableType/VariableType.iml" />
+    </modules>
+  </component>
+</project>
